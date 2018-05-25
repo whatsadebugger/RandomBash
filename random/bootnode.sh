@@ -1,0 +1,1 @@
+geth --testnet --light --ws --wsaddr "localhost" --wsport 38546 --wsorigins "*" --rpc --datadir ~/.ropsten console --bootnodes "enode://865a63255b3bb68023b6bffd5095118fcc13e79dcf014fe4e47e065c350c7cc72af2e53eff895f11ba1bbb6a2b33271c1116ee870f266618eadfc2e78aa7349c@52.176.100.77:30303"
