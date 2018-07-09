@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# /lib/systemd/system-sleep/r8169-refresh
 PROGNAME=$(basename "$0")
 state=$1
 action=$2
