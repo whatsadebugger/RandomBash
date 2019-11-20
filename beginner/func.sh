@@ -7,7 +7,7 @@ function greet {
     echo param $1
     echo Hi
 }
-greet param
-qq param
+greet someinput
+qq unusedInput
 echo wont print
 
